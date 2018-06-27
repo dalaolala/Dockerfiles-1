@@ -1,1 +1,1 @@
-# CentOS-SSH-Dockerfile
+# Dockerfile
