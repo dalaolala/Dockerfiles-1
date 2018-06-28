@@ -7,7 +7,7 @@
 构建之前，请修改`shadowsocks.json`配置
 
 ```bash
-$ git clone git@github.com:anshengme/Dockerfiles.git
+$ git clone https://github.com/anshengme/Dockerfiles.git
 $ cd Dockerfiles/ss-privoxy-client
 $ docker build -t ss-privoxy-client .
 ```
