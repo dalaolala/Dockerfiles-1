@@ -1,5 +1,5 @@
 #
-# This is a centos image with SSH
+# This is a centos image with ss privoxy client
 #
 # VERSION 0.0.1
 #
