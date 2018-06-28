@@ -1,0 +1,11 @@
+{
+    "server": "your_server_ip",
+    "server_port": "your_server_port",
+    "local_address": "0.0.0.0",
+    "local_port": 1080,
+    "password": "your_server_passwd",
+    "timeout": 300,
+    "method": "chacha20",
+    "fast_open": false,
+    "workers": 1
+}
